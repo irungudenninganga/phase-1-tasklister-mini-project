@@ -35,3 +35,10 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+#delete-btn{
+  background-color: pink;
+  border: none ;
+  border-radius: 3px;
+  padding: 3px;
+  cursor: pointer;
+}
